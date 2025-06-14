@@ -15,7 +15,7 @@
 | 9   | 임진택 |                                                                                      |               |
 | 10  | 전영호 | [톰캣 NIOConnector는 어떻게 수많은 요청을 처리할까? ](https://aplbly.tistory.com/24)          |               |
 | 11  | 전용운 |                                                                                      |               |
-| 12  | 조승섭 |                                                                                      |               |
+| 12  | 조승섭 | [[Java] 클래스와 객체란?](https://seopseophaeee.tistory.com/5)                        |               |
 | 13  | 조현경 |                                                                                      |               |
 
 <br>
