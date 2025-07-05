@@ -10,7 +10,7 @@
 | 4   | 이민영 |                                                        |                |
 | 5   | 이재민 |                                                        |                |
 | 6   | 이정진 |  [리눅스 컨테이너 (5) - namespace [NET]](https://freshdev.tistory.com/55)   |                |
-| 7   | 이주현 |                                                        |                |
+| 7   | 이주현 |  [What is StaleTime & gcTime](https://jujus.gitbook.io/jutrongs-docs/my-storage/library/tanstack-query/what-is-staletime-and-gctime)                                                      |                |
 | 8   | 이지은 |                                                        |                |
 | 9   | 임진택 |                                                        |                |
 | 10  | 전영호 |  [@ExceptionHandler는 어떻게 동작할까?](https://aplbly.tistory.com/29)                                                      |                |
