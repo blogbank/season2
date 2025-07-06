@@ -15,7 +15,7 @@
 | 9   | 임진택 | [Gateway 없이 서버 분리](https://taekt.tistory.com/40)                                                                                    |          |
 | 10  | 전영호 | [@ExceptionHandler는 어떻게 동작할까?](https://aplbly.tistory.com/29)                                                                       |          |
 | 11  | 전용운 | [자료구조 - 스택(Stack)](https://jun-yu.tistory.com/11)                                                                                                                                   |          |
-| 12  | 조승섭 |                                                                                                                                     |          |
+| 12  | 조승섭 | [[Algorithm] 다익스트라(Dijkstra) 알고리즘이란?](https://seopseophaeee.tistory.com/7)                          |          |
 | 13  | 조현경 | [KSUG 스프링캠프2025에 다녀왔다](https://velog.io/@edocnuyh/KSUG-%EC%8A%A4%ED%94%84%EB%A7%81%EC%BA%A0%ED%94%842025%EC%97%90-%EB%8B%A4%EB%85%80%EC%99%94%EB%8B%A4)                                                                                                                                    |          |
 
 <br>
