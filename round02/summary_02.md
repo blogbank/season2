@@ -14,7 +14,7 @@
 | 8   | 이지은 | [[Android] Compose 내부에 View 그리기 (AndroidView)](https://ji-eeeun.tistory.com/124)
 | 9   | 임진택 | [Gateway 없이 서버 분리](https://taekt.tistory.com/40)                                                                                    |          |
 | 10  | 전영호 | [@ExceptionHandler는 어떻게 동작할까?](https://aplbly.tistory.com/29)                                                                       |          |
-| 11  | 전용운 |                                                                                                                                     |          |
+| 11  | 전용운 | [자료구조 - 스택(Stack)](https://jun-yu.tistory.com/11)                                                                                                                                   |          |
 | 12  | 조승섭 |                                                                                                                                     |          |
 | 13  | 조현경 | [KSUG 스프링캠프2025에 다녀왔다](https://velog.io/@edocnuyh/KSUG-%EC%8A%A4%ED%94%84%EB%A7%81%EC%BA%A0%ED%94%842025%EC%97%90-%EB%8B%A4%EB%85%80%EC%99%94%EB%8B%A4)                                                                                                                                    |          |
 
