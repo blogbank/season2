@@ -8,7 +8,7 @@
 | 2   | 박현종 | [MySQL Optimizer](https://develop-think-record.tistory.com/21)                                                                                                                                    |          |
 | 3   | 윤수오 |                                                                                                                                     |          |
 | 4   | 이민영 | [개처럼 할당하고 정승처럼 수거하라 - [가비지 컬렉터의 동작방식]](https://stylish-minyoung.tistory.com/210)                                                    |          |
-| 5   | 이재민 |                                                                                                                                     |          |
+| 5   | 이재민 | [기획자의 앱 도전기 #2 - Flutter 기본 구성 요소](https://jam-scribble.tistory.com/40)                                                                                                                                    |          |
 | 6   | 이정진 | [리눅스 컨테이너 (5) - namespace [NET]](https://freshdev.tistory.com/55)                                                                   |          |
 | 7   | 이주현 | [What is StaleTime & gcTime](https://jujus.gitbook.io/jutrongs-docs/my-storage/library/tanstack-query/what-is-staletime-and-gctime) |          |
 | 8   | 이지은 | [[Android] Compose 내부에 View 그리기 (AndroidView)](https://ji-eeeun.tistory.com/124)
