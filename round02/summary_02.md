@@ -7,7 +7,7 @@
 | 1   | 이승현 | [[JAVA] Timezone과 Offset](https://ssddo-story.tistory.com/65)                                                                       |          |
 | 2   | 박현종 |                                                                                                                                     |          |
 | 3   | 윤수오 |                                                                                                                                     |          |
-| 4   | 이민영 | [개처럼 할당하고 정승처럼 수거하라 - [가비지 컬렉터의 동작방식]](https://stylish-minyoung.tistory.com/210210)                                                 |          |
+| 4   | 이민영 | [개처럼 할당하고 정승처럼 수거하라 - [가비지 컬렉터의 동작방식]](https://stylish-minyoung.tistory.com/210)                                                    |          |
 | 5   | 이재민 |                                                                                                                                     |          |
 | 6   | 이정진 | [리눅스 컨테이너 (5) - namespace [NET]](https://freshdev.tistory.com/55)                                                                   |          |
 | 7   | 이주현 | [What is StaleTime & gcTime](https://jujus.gitbook.io/jutrongs-docs/my-storage/library/tanstack-query/what-is-staletime-and-gctime) |          |
