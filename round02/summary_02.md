@@ -6,7 +6,7 @@
 |-----|-----|-------------------------------------------------------------------------------------------------------------------------------------|----------|
 | 1   | 이승현 | [[JAVA] Timezone과 Offset](https://ssddo-story.tistory.com/65)                                                                       |          |
 | 2   | 박현종 | [MySQL Optimizer](https://develop-think-record.tistory.com/21)                                                                                                                                    |          |
-| 3   | 윤수오 |                                                                                                                                     |          |
+| 3   | 윤수오 | [Beyond SW Camp 회고 - 5주차(https://velog.io/@dbstndh12/Beyond-SW-Camp-16%EA%B8%B0-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0616620)                                                                                                                                    |          |
 | 4   | 이민영 | [개처럼 할당하고 정승처럼 수거하라 - [가비지 컬렉터의 동작방식]](https://stylish-minyoung.tistory.com/210)                                                    |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #2 - Flutter 기본 구성 요소](https://jam-scribble.tistory.com/40)                                                                                                                                    |          |
 | 6   | 이정진 | [리눅스 컨테이너 (5) - namespace [NET]](https://freshdev.tistory.com/55)                                                                   |          |
