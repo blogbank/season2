@@ -4,7 +4,7 @@
 
 | No. | 이름  | 블로그 주소                                                                          | 메모 / 코멘트 |
 |-----|-----|---------------------------------------------------------------------------------|----------|
-| 1   | 이승현 |                                                                                 |          |
+| 1   | 이승현 | [[WebFlux] Reactive Streams 역사와 manifesto](https://ssddo-story.tistory.com/66)      |          |
 | 2   | 박현종 |                                                                                 |          |
 | 3   | 윤수오 | [Lamda와 Stream API](https://velog.io/@dbstndh12/Java-Lamda%EC%99%80-Stream-API) |          |
 | 4   | 이민영 | [세대별 가비지 컬렉션 [알고리즘]](https://stylish-minyoung.tistory.com/211)                  |          |
