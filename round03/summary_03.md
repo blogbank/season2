@@ -15,7 +15,7 @@
 | 9   | 임진택 | [MSA 환경에서 왜 Kafka 를 활용하는 걸까?](https://taekt.tistory.com/41)                               |          |
 | 10  | 전영호 |                                                                                           |          |
 | 11  | 전용운 |                                                                                           |          |
-| 12  | 조승섭 |                                                                                           |          |
+| 12  | 조승섭 | [[Algorithm] 플루이드-워셜(Floyd-Warshall) 알고리즘이란?](https://seopseophaeee.tistory.com/9)                |          |
 | 13  | 조현경 | [ Map 과 DTO ](https://velog.io/@edocnuyh/Map-%EA%B3%BC-DTO)                               |          |
 
 <br>
