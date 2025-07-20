@@ -16,7 +16,7 @@
 | 10  | 전영호 |                                                                                 |          |
 | 11  | 전용운 |                                                                                 |          |
 | 12  | 조승섭 |                                                                                 |          |
-| 13  | 조현경 |                                                                                 |          |
+| 13  | 조현경 | [ Map 과 DTO ](https://velog.io/@edocnuyh/Map-%EA%B3%BC-DTO)                    |          |
 
 <br>
 
