@@ -10,7 +10,7 @@
 | 4   | 이민영 | [세대별 가비지 컬렉션 [알고리즘]](https://stylish-minyoung.tistory.com/211)                  |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #3 - Flutter UI 구조 이해하기](https://jam-scribble.tistory.com/41)                                                                                |          |
 | 6   | 이정진 | [C (1) - 상수와 변수](https://freshdev.tistory.com/57)                               |          |
-| 7   | 이주현 |                                                                                 |          |
+| 7   | 이주현 | [RSA/AES 암호화](https://jujus.gitbook.io/jutrongs-docs/my-storage/computer-science/rsa-aes)                                                                                 |          |
 | 8   | 이지은 | [[Android] Network Inspector로 네트워크 에러 상황 구현해보기](https://ji-eeeun.tistory.com/125)      |          |
 | 9   | 임진택 |                                                                                 |          |
 | 10  | 전영호 |                                                                                 |          |
