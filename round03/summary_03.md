@@ -5,7 +5,7 @@
 | No. | 이름  | 블로그 주소                                                                                    | 메모 / 코멘트 |
 |-----|-----|-------------------------------------------------------------------------------------------|----------|
 | 1   | 이승현 | [[WebFlux] Reactive Streams 역사와 manifesto](https://ssddo-story.tistory.com/66)            |          |
-| 2   | 박현종 |                                                                                           |          |
+| 2   | 박현종 | [kafka 내부동작](https://develop-think-record.tistory.com/22)                                           |          |
 | 3   | 윤수오 | [Lamda와 Stream API](https://velog.io/@dbstndh12/Java-Lamda%EC%99%80-Stream-API)           |          |
 | 4   | 이민영 | [세대별 가비지 컬렉션 [알고리즘]](https://stylish-minyoung.tistory.com/211)                            |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #3 - Flutter UI 구조 이해하기](https://jam-scribble.tistory.com/41)                 |          |
