@@ -14,7 +14,7 @@
 | 8   | 이지은 | [[Android] Network Inspector로 네트워크 에러 상황 구현해보기](https://ji-eeeun.tistory.com/125)         |          |
 | 9   | 임진택 | [MSA 환경에서 왜 Kafka 를 활용하는 걸까?](https://taekt.tistory.com/41)                               |          |
 | 10  | 전영호 |                                                                                           |          |
-| 11  | 전용운 |                                                                                           |          |
+| 11  | 전용운 | [자료구조 - 이진 트리(Binary Tree)](https://jun-yu.tistory.com/12)                                                                                        |          |
 | 12  | 조승섭 | [[Algorithm] 플루이드-워셜(Floyd-Warshall) 알고리즘이란?](https://seopseophaeee.tistory.com/9)                |          |
 | 13  | 조현경 | [ Map 과 DTO ](https://velog.io/@edocnuyh/Map-%EA%B3%BC-DTO)                               |          |
 
