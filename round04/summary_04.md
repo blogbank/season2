@@ -14,7 +14,7 @@
 | 8   | 이지은 | [[Android] 앱을 사용하지 않으면 권한을 초기화 할게요!](https://ji-eeeun.tistory.com/126)         |          |
 | 9   | 임진택 | [RabbitMQ 다중 서버에서, 특정 컨슈머에게 메세지 큐 우선 전달하기](https://taekt.tistory.com/42)                               |          |
 | 10  | 전영호 |                                                                                           |          |
-| 11  | 전용운 |                                                                                         |          |
+| 11  | 전용운 |   [자료구조 - 수식 트리(Expression Tree)](https://jun-yu.tistory.com/13)                                                                                      |          |
 | 12  | 조승섭 | [[Design Pattern] 프로토타입(Prototype) 패턴이란?](https://seopseophaeee.tistory.com/10)                |          |
 | 13  | 조현경 |                              |          |
 
