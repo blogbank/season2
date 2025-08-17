@@ -15,7 +15,7 @@
 | 9   | 임진택 |     [코루틴](https://taekt.tistory.com/43)                                                   |                |
 | 10  | 전영호 |                                                        |                |
 | 11  | 전용운 |                                                        |                |
-| 12  | 조승섭 |                                                        |                |
+| 12  | 조승섭 |    [[Spring] MVC 패턴이란? (Model-View-Controller)](https://seopseophaeee.tistory.com/11)        |                |
 | 13  | 조현경 |                                                        |                |
 
 <br>
