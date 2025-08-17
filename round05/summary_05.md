@@ -16,7 +16,7 @@
 | 10  | 전영호 |      [안정해시](https://aplbly.tistory.com/31)                                                  |                |
 | 11  | 전용운 |      [알고리즘 - 정렬(Sorting) - 버블 정렬](https://jun-yu.tistory.com/14)                                                  |                |
 | 12  | 조승섭 |    [[Spring] MVC 패턴이란? (Model-View-Controller)](https://seopseophaeee.tistory.com/11)        |                |
-| 13  | 조현경 |                                                        |                |
+| 13  | 조현경 | [프로그래밍 패러다임 겉핥기](https://velog.io/@edocnuyh/프로그래밍-패러다임-겉핥기)                                                       |                |
 
 <br>
 
