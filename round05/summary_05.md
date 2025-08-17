@@ -11,7 +11,7 @@
 | 5   | 이재민 |                                                        |                |
 | 6   | 이정진 |      [C (3) - 제어문과 함수](https://freshdev.tistory.com/59)                                                  |                |
 | 7   | 이주현 |                                                        |                |
-| 8   | 이지은 |                                                        |                |
+| 8   | 이지은 |     [[Android] 시스템 UI (Inset) 제어해보기](https://ji-eeeun.tistory.com/127)   |                |
 | 9   | 임진택 |     [코루틴](https://taekt.tistory.com/43)                                                   |                |
 | 10  | 전영호 |                                                        |                |
 | 11  | 전용운 |                                                        |                |
