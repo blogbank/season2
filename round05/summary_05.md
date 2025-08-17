@@ -10,7 +10,7 @@
 | 4   | 이민영 |                                                        |                |
 | 5   | 이재민 |                                                        |                |
 | 6   | 이정진 |      [C (3) - 제어문과 함수](https://freshdev.tistory.com/59)                                                  |                |
-| 7   | 이주현 |                                                        |                |
+| 7   | 이주현 |     [RN - 네트워크 상태 감지](https://jujus.gitbook.io/jutrongs-docs/my-storage/react-native/rn)                                               |                |
 | 8   | 이지은 |     [[Android] 시스템 UI (Inset) 제어해보기](https://ji-eeeun.tistory.com/127)   |                |
 | 9   | 임진택 |     [코루틴](https://taekt.tistory.com/43)                                                   |                |
 | 10  | 전영호 |                                                        |                |
