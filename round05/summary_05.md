@@ -5,7 +5,7 @@
 | No. | 이름  | 블로그 주소                                                                               | 메모 / 코멘트 |
 |-----|-----|--------------------------------------------------------------------------------------|----------|
 | 1   | 이승현 | [[JOOQ] CSV Exporting](https://ssddo-story.tistory.com/68)                           |          |
-| 2   | 박현종 |                                                                                      |          |
+| 2   | 박현종 | [MongoDB 샤딩](https://develop-think-record.tistory.com/27)                                                                       |          |
 | 3   | 윤수오 |                                                                                      |          |
 | 4   | 이민영 | [테스트의 원리 - 개발자도 알아야할 소프트웨어 실무](https://stylish-minyoung.tistory.com/213)             |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #4 - 화면 이동](https://jam-scribble.tistory.com/43)                         |          |
