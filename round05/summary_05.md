@@ -13,7 +13,7 @@
 | 7   | 이주현 |     [RN - 네트워크 상태 감지](https://jujus.gitbook.io/jutrongs-docs/my-storage/react-native/rn)                                               |                |
 | 8   | 이지은 |     [[Android] 시스템 UI (Inset) 제어해보기](https://ji-eeeun.tistory.com/127)   |                |
 | 9   | 임진택 |     [코루틴](https://taekt.tistory.com/43)                                                   |                |
-| 10  | 전영호 |                                                        |                |
+| 10  | 전영호 |      [안정해시](https://aplbly.tistory.com/31)                                                  |                |
 | 11  | 전용운 |                                                        |                |
 | 12  | 조승섭 |    [[Spring] MVC 패턴이란? (Model-View-Controller)](https://seopseophaeee.tistory.com/11)        |                |
 | 13  | 조현경 |                                                        |                |
