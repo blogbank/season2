@@ -6,7 +6,7 @@
 |-----|-----|--------------------------------------------------------------------------------------|----------|
 | 1   | 이승현 | [[JOOQ] CSV Exporting](https://ssddo-story.tistory.com/68)                           |          |
 | 2   | 박현종 | [MongoDB 샤딩](https://develop-think-record.tistory.com/27)                                                                       |          |
-| 3   | 윤수오 | [Beyond SW Camp 16기 11주차 회고 (https://velog.io/@dbstndh12/Beyond-SW-Camp-16%EA%B8%B0-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)                                                                                     |          |
+| 3   | 윤수오 | [Beyond SW Camp 16기 11주차 회고] (https://velog.io/@dbstndh12/Beyond-SW-Camp-16%EA%B8%B0-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)                                                                                     |          |
 | 4   | 이민영 | [테스트의 원리 - 개발자도 알아야할 소프트웨어 실무](https://stylish-minyoung.tistory.com/213)             |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #4 - 화면 이동](https://jam-scribble.tistory.com/43)                         |          |
 | 6   | 이정진 | [C (3) - 제어문과 함수](https://freshdev.tistory.com/59)                                   |          |
