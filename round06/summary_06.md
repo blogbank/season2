@@ -8,7 +8,7 @@
 | 2   | 박현종 |                                                        |                |
 | 3   | 윤수오 |                                                        |                |
 | 4   | 이민영 |                                                        |                |
-| 5   | 이재민 |                                                        |                |
+| 5   | 이재민 |    [기획자의 앱 도전기 #5 - 로컬 저장](https://jam-scribble.tistory.com/44)                                                    |                |
 | 6   | 이정진 |    [C (6) - 문자와 문자열](https://freshdev.tistory.com/62)                                                    |                |
 | 7   | 이주현 |                                                        |                |
 | 8   | 이지은 |   [[Android] Crashlytics 전에 StrictMode](https://ji-eeeun.tistory.com/128)   |                |
