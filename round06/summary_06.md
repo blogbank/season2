@@ -15,7 +15,7 @@
 | 9   | 임진택 | [백엔드 면접 질문 준비](https://taekt.tistory.com/44)                                        |          |
 | 10  | 전영호 |                                                                                     |          |
 | 11  | 전용운 |                                                                                     |          |
-| 12  | 조승섭 |                                                                                     |          |
+| 12  | 조승섭 | [[JAVA] 컬렉션 프레임워크란? (Collections Framework)](https://seopseophaeee.tistory.com/12)       |          |
 | 13  | 조현경 |                                                                                     |          |
 
 <br>
