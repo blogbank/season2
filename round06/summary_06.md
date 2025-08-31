@@ -11,7 +11,7 @@
 | 5   | 이재민 |                                                        |                |
 | 6   | 이정진 |    [C (6) - 문자와 문자열](https://freshdev.tistory.com/62)                                                    |                |
 | 7   | 이주현 |                                                        |                |
-| 8   | 이지은 |                                                        |                |
+| 8   | 이지은 |   [[Android] Crashlytics 전에 StrictMode](https://ji-eeeun.tistory.com/128)   |                |
 | 9   | 임진택 |    [백엔드 면접 질문 준비](https://taekt.tistory.com/44)    |                |
 | 10  | 전영호 |                                                        |                |
 | 11  | 전용운 |                                                        |                |
