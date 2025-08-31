@@ -5,7 +5,7 @@
 | No. | 이름  | 블로그 주소                                                                              | 메모 / 코멘트 |
 |-----|-----|-------------------------------------------------------------------------------------|----------|
 | 1   | 이승현 | [[WebFlux] Cold Publisher, Hot Publisher 구현해보기](https://ssddo-story.tistory.com/69) |          |
-| 2   | 박현종 |                                                                                     |          |
+| 2   | 박현종 |      [performance 스키마](https://develop-think-record.tistory.com/30)                                                                       |          |
 | 3   | 윤수오 |                                                                                     |          |
 | 4   | 이민영 | [테스트 프로세스의 기초](https://stylish-minyoung.tistory.com/214)                            |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #5 - 로컬 저장](https://jam-scribble.tistory.com/44)                        |          |
