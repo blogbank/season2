@@ -10,7 +10,7 @@
 | 4   | 이민영 | [테스트 프로세스의 기초](https://stylish-minyoung.tistory.com/214)                            |          |
 | 5   | 이재민 | [기획자의 앱 도전기 #5 - 로컬 저장](https://jam-scribble.tistory.com/44)                        |          |
 | 6   | 이정진 | [C (6) - 문자와 문자열](https://freshdev.tistory.com/62)                                  |          |
-| 7   | 이주현 |                                                                                     |          |
+| 7   | 이주현 | [DOM과 브라우저 렌더링 과정](https://jujus.gitbook.io/jutrongs-docs/my-storage/react-next-js/dom)                                                                                    |          |
 | 8   | 이지은 | [[Android] Crashlytics 전에 StrictMode](https://ji-eeeun.tistory.com/128)             |          |
 | 9   | 임진택 | [백엔드 면접 질문 준비](https://taekt.tistory.com/44)                                        |          |
 | 10  | 전영호 |                                                                                     |          |
