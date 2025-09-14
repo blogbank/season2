@@ -14,7 +14,7 @@
 | 8   | 이지은 |                                                                       |          |
 | 9   | 임진택 |  [Docker Swarm](https://taekt.tistory.com/45)             |          |
 | 10  | 전영호 |["이거 가챠 게임인가요?" 솔직한 Claude Code 한 달 리뷰](https://aplbly.tistory.com/32)                                                                |          |
-| 11  | 전용운 |                                                                       |          |
+| 11  | 전용운 |[알고리즘 - 정렬(Sorting) - 삽입 정렬](https://jun-yu.tistory.com/15)                                                                       |          |
 | 12  | 조승섭 |                                                                       |          |
 | 13  | 조현경 |                                                                       |          |
 
