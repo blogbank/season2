@@ -10,7 +10,7 @@
 | 4   | 이민영 | [테스트 목적](https://stylish-minyoung.tistory.com/215)                    |          |
 | 5   | 이재민 | [프로토타입의 두 가지 개념 : Lo-fi 와 Hi-fi](https://jam-scribble.tistory.com/45) |          |
 | 6   | 이정진 | [C (10) - 사용자 정의 자료형](https://freshdev.tistory.com/66)                |          |
-| 7   | 이주현 |                                                                       |          |
+| 7   | 이주현 | [OTA 구현하기 (Hot Updater)](https://jujus.gitbook.io/jutrongs-docs/my-storage/react-native/ota-hot-updater)                                                                       |          |
 | 8   | 이지은 | [[Android] 안드로이드 스튜디오에서 웹뷰 스크롤 늘려보기](https://ji-eeeun.tistory.com/129) |          |
 | 9   | 임진택 |  [Docker Swarm](https://taekt.tistory.com/45)             |          |
 | 10  | 전영호 |["이거 가챠 게임인가요?" 솔직한 Claude Code 한 달 리뷰](https://aplbly.tistory.com/32)                                                                |          |
