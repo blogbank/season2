@@ -16,7 +16,7 @@
 | 10  | 전영호 |["이거 가챠 게임인가요?" 솔직한 Claude Code 한 달 리뷰](https://aplbly.tistory.com/32)                                                                |          |
 | 11  | 전용운 |[알고리즘 - 정렬(Sorting) - 삽입 정렬](https://jun-yu.tistory.com/15)                                                                       |          |
 | 12  | 조승섭 | [[Spring] 스프링(Spring) 프로젝트 구조](https://seopseophaeee.tistory.com/13)                     |          |
-| 13  | 조현경 |                                                                       |          |
+| 13  | 조현경 | [NL조인](https://velog.io/@edocnuyh/NL%EC%A1%B0%EC%9D%B8)                                                                      |          |
 
 <br>
 
