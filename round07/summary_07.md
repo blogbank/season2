@@ -12,7 +12,7 @@
 | 6   | 이정진 | [C (10) - 사용자 정의 자료형](https://freshdev.tistory.com/66)                |          |
 | 7   | 이주현 |                                                                       |          |
 | 8   | 이지은 |                                                                       |          |
-| 9   | 임진택 |                                                                       |          |
+| 9   | 임진택 |  [Docker Swarm](https://taekt.tistory.com/45)             |          |
 | 10  | 전영호 |["이거 가챠 게임인가요?" 솔직한 Claude Code 한 달 리뷰](https://aplbly.tistory.com/32)                                                                |          |
 | 11  | 전용운 |                                                                       |          |
 | 12  | 조승섭 |                                                                       |          |
