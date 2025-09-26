@@ -11,7 +11,7 @@
 | 5   | 이재민 |                                                        |                |
 | 6   | 이정진 |             [Java (2) - 변수](https://freshdev.tistory.com/71)                                           |                |
 | 7   | 이주현 |                                                        |                |
-| 8   | 이지은 |                                                        |                |
+| 8   | 이지은 | [[Android] Portrait? Landscape? screenOrientation 이해하기](https://ji-eeeun.tistory.com/130) |                |
 | 9   | 임진택 |                                                        |                |
 | 10  | 전영호 |                                                        |                |
 | 11  | 전용운 |                                                        |                |
