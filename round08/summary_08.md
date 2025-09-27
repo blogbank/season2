@@ -6,7 +6,7 @@
 |-----|--------|--------------------------------------------------------|----------------|
 | 1   | 이승현 |              [[JAVA] Java NIO - Channel과 Buffer](https://ssddo-story.tistory.com/71)                                          |                |
 | 2   | 박현종 |                                                        |                |
-| 3   | 윤수오 |    [Spring Cloud MSA (1) - MSA 개요](https://freshdev.tistory.com/71](https://velog.io/@dbstndh12/Spring-Cloud-MSA-1.-MSA-%EA%B0%9C%EC%9A%94))                                                    |                |
+| 3   | 윤수오 |    [Spring Cloud MSA (1) - MSA 개요](https://velog.io/@dbstndh12/Spring-Cloud-MSA-1.-MSA-%EA%B0%9C%EC%9A%94)                                                    |                |
 | 4   | 이민영 |                                                        |                |
 | 5   | 이재민 |                                                        |                |
 | 6   | 이정진 |             [Java (2) - 변수](https://freshdev.tistory.com/71)                                           |                |
