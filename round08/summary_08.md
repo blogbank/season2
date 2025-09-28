@@ -14,7 +14,7 @@
 | 8   | 이지은 | [[Android] Portrait? Landscape? screenOrientation 이해하기](https://ji-eeeun.tistory.com/130)               |          |
 | 9   | 임진택 |  [AWS VPC 구성] (https://taekt.tistory.com/46)                                                                                                      |          |
 | 10  | 전영호 |                                                                                                         |          |
-| 11  | 전용운 | [알고리즘 - 정렬(Sorting) - 퀵 정렬] (https://jun-yu.tistory.com/16)                                                                                                       |          |
+| 11  | 전용운 | [알고리즘 - 정렬(Sorting) - 퀵 정렬](https://jun-yu.tistory.com/16)                                                                                                       |          |
 | 12  | 조승섭 | [[Floyd-Warshall] 백준 11403, 경로 찾기] (https://seopseophaeee.tistory.com/14)       |          |
 | 13  | 조현경 |                                                                                                         |          |
 
