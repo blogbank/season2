@@ -15,7 +15,7 @@
 | 9   | 임진택 |  [AWS VPC 구성] (https://taekt.tistory.com/46)                                                                                                      |          |
 | 10  | 전영호 |                                                                                                         |          |
 | 11  | 전용운 |                                                                                                         |          |
-| 12  | 조승섭 |                                                                                                         |          |
+| 12  | 조승섭 | [[Floyd-Warshall] 백준 11403, 경로 찾기] (https://seopseophaeee.tistory.com/14)       |          |
 | 13  | 조현경 |                                                                                                         |          |
 
 <br>
