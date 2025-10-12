@@ -9,7 +9,7 @@
 | 3   | 윤수오 |                                                                                      |          |
 | 4   | 이민영 | [소프트웨어 개발 모델](https://stylish-minyoung.tistory.com/217)                              |          |
 | 5   | 이재민 | [앱 화면 기획 시 꼭 알아야 할 7가지 터치 제스처 정리](https://jam-scribble.tistory.com/47)                                                                                     |          |
-| 6   | 이정진 |                                                                                      |          |
+| 6   | 이정진 |       [Kotlin (1) - what and why?](https://freshdev.tistory.com/78)   |          |
 | 7   | 이주현 |                                                                                      |          |
 | 8   | 이지은 | [[Android] api와 implementation, 무엇이 다를까?](https://ji-eeeun.tistory.com/131) |          |
 | 9   | 임진택 | [Docker란?](https://taekt.tistory.com/47)                                             |          |
