@@ -5,7 +5,7 @@
 | No. | 이름  | 블로그 주소                                                                               | 메모 / 코멘트 |
 |-----|-----|--------------------------------------------------------------------------------------|----------|
 | 1   | 이승현 | [[JAVA] Java NIO - ByteBuffer와 NIO논블러킹 TCP소켓 구현](https://ssddo-story.tistory.com/72) |          |
-| 2   | 박현종 |                                                                                      |          |
+| 2   | 박현종 | [이더리움 Uniswap](https://develop-think-record.tistory.com/44)                                                                                     |          |
 | 3   | 윤수오 |                                                                                      |          |
 | 4   | 이민영 | [소프트웨어 개발 모델](https://stylish-minyoung.tistory.com/217)                              |          |
 | 5   | 이재민 | [앱 화면 기획 시 꼭 알아야 할 7가지 터치 제스처 정리](https://jam-scribble.tistory.com/47)                                                                                     |          |
