@@ -15,7 +15,7 @@
 | 9   | 임진택 | [Docker란?](https://taekt.tistory.com/47)                                             |          |
 | 10  | 전영호 |                                                                                      |          |
 | 11  | 전용운 |                                                                                      |          |
-| 12  | 조승섭 | [[Design Pattern] 팩토리 메서드(Factory Method) 패턴이란?] (https://seopseophaeee.tistory.com/15)    |          |
+| 12  | 조승섭 | [[Design Pattern] 팩토리 메서드(Factory Method) 패턴이란?](https://seopseophaeee.tistory.com/15)    |          |
 | 13  | 조현경 |                                                                                      |          |
 
 <br>
