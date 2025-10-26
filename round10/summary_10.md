@@ -15,7 +15,7 @@
 | 9   | 임진택 | [비관계형 데이터베이스란?](https://taekt.tistory.com/48)          |          |
 | 10  | 전영호 | [리눅스 파일시스템 - Inode 와 블록그룹](https://aplbly.tistory.com/33)           |          |
 | 11  | 전용운 |                                                        |          |
-| 12  | 조승섭 |                                                        |          |
+| 12  | 조승섭 | [정규화(Normalization)와 이상(Anomaly)](https://seopseophaeee.tistory.com/16)            |          |
 | 13  | 조현경 |                                                        |          |
 
 <br>
