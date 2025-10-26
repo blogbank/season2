@@ -13,7 +13,7 @@
 | 7   | 이주현 |                                                        |          |
 | 8   | 이지은 | [[Android] Kotlin 버전을 올렸는데 왜 Gson에서 이슈가 발생할까?](https://ji-eeeun.tistory.com/132) |          |
 | 9   | 임진택 | [비관계형 데이터베이스란?](https://taekt.tistory.com/48)          |          |
-| 10  | 전영호 |                                                        |          |
+| 10  | 전영호 | [리눅스 파일시스템 - Inode 와 블록그룹](https://aplbly.tistory.com/33)           |          |
 | 11  | 전용운 |                                                        |          |
 | 12  | 조승섭 |                                                        |          |
 | 13  | 조현경 |                                                        |          |
