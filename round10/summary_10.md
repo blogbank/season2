@@ -11,7 +11,7 @@
 | 5   | 이재민 |                                                        |          |
 | 6   | 이정진 | [Kotlin (2) - basics](https://freshdev.tistory.com/79) |          |
 | 7   | 이주현 |                                                        |          |
-| 8   | 이지은 |                                                        |          |
+| 8   | 이지은 | [[Android] Kotlin 버전을 올렸는데 왜 Gson에서 이슈가 발생할까?](https://ji-eeeun.tistory.com/132)  |          |
 | 9   | 임진택 | [비관계형 데이터베이스란?](https://taekt.tistory.com/48)          |          |
 | 10  | 전영호 |                                                        |          |
 | 11  | 전용운 |                                                        |          |
