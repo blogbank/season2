@@ -8,7 +8,7 @@
 | 2   | 박현종 |                                                        |          |
 | 3   | 윤수오 |                                                        |          |
 | 4   | 이민영 | [정적 기법과 리뷰](https://stylish-minyoung.tistory.com/218)  |          |
-| 5   | 이재민 |                                                        |          |
+| 5   | 이재민 | [기획 문서 버전관리 왜 중요할까? Figma로 쉽게 하는 버전 관리 방법](https://jam-scribble.tistory.com/48)                                                       |          |
 | 6   | 이정진 | [Kotlin (2) - basics](https://freshdev.tistory.com/79) |          |
 | 7   | 이주현 |                                                        |          |
 | 8   | 이지은 | [[Android] Kotlin 버전을 올렸는데 왜 Gson에서 이슈가 발생할까?](https://ji-eeeun.tistory.com/132) |          |
