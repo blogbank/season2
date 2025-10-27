@@ -5,7 +5,7 @@
 | No. | 이름  | 블로그 주소                                                 | 메모 / 코멘트 |
 |-----|-----|--------------------------------------------------------|----------|
 | 1   | 이승현 | [[JAVA] Java AIO](https://ssddo-story.tistory.com/73)  |          |
-| 2   | 박현종 |                                                        |          |
+| 2   | 박현종 | [인프런 개발 사례](https://develop-think-record.tistory.com/48)                                                        |          |
 | 3   | 윤수오 |                                                        |          |
 | 4   | 이민영 | [정적 기법과 리뷰](https://stylish-minyoung.tistory.com/218)  |          |
 | 5   | 이재민 | [기획 문서 버전관리 왜 중요할까? Figma로 쉽게 하는 버전 관리 방법](https://jam-scribble.tistory.com/48)                                                       |          |
